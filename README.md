@@ -8,7 +8,7 @@ A Discord.js module to simplify your music commands and play songs with audio fi
 
 - Based on `@discordjs/voice`
 - Easy to use and customize
-- Support YouTube and audio link
+- Supports YouTube and audio link
 - Audio filters (bassboost, nightcore, vaporwave,...)
 - Autoplay related songs
 - Plugin system to support more sites ([Plugin List](https://distube.js.org/#/docs/DisTube/stable/plugin/list))
