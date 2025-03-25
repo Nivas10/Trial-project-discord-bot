@@ -53,5 +53,5 @@ Learn how to build a music bot from scratch with [DisTube Guide](https://distube
 
 ## Example Bot
 
-- [DisTube Bot](https://skick.xyz/DisTube) - A music bot with reaction controller, filters, DJ mode, user's custom playlist and voting.
+- [DisTube Bot](https://skick.xyz/DisTube) - A music bot with a reaction controller, filters, DJ mode, a user's custom playlist and voting.
 - [DisTube Example](https://github.com/distubejs/example) - Example bot with simple command handler.
